@@ -1,0 +1,5 @@
+Practicing creating new objects and use client class to work with them.
+Things to note:
+Encapsulation;
+When you need to do something more than once, put it in a method;
+Use helper functions to make complex methods more clean.
